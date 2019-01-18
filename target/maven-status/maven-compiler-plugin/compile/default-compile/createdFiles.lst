@@ -1,0 +1,3 @@
+org/wso2/sample/handlers/CustomKeyValidationHandler.class
+org/wso2/sample/handlers/CustomOAuth2TokenValidator.class
+org/wso2/sample/handlers/internal/SampleKeyValidationHandlerComponent.class

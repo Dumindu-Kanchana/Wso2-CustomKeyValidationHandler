@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: custom-key-validation-handler
+Built-By: dumindu
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1540272763591
+Import-Package: org.osgi.framework;version="[1.7,2)",org.osgi.service.
+ component;version="[1.2,2)"
+DynamicImport-Package: *
+Tool: Bnd-1.43.0
+Export-Package: org.wso2.sample.handlers;version="1.0.0.SNAPSHOT"
+Bundle-Version: 1.0.0.SNAPSHOT
+Bundle-Name: custom-key-validation-handler
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_131
+
